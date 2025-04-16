@@ -21,7 +21,7 @@ This project is all about looking at how sales change month by month. I wanted t
 1.	Made a Table: I created a table to hold all the sales data, like a digital spreadsheet.
 2.	Loaded the Data: I put all the sales info into our table.
 3.	Asked Questions with Code: I used SQL to ask questions about the data, like:
-   - - "Show me how much was sold each month."
+     - "Show me how much was sold each month."
      - "Which month had the highest sales?"
      - "What was the top 5 best-selling products?"
 4.	Looked at Daily Trends: I also checked if some days were busier than others.
